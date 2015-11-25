@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160mm" height="90mm" viewBox="0 0 16000 9000" version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 8000,8999 L 0,8999 0,0 15999,0 15999,8999 8000,8999 Z"/>
+ <path fill="rgb(94,39,80)" stroke="none" d="M 5666,180 C 5213,180 4762,251 4331,391 3900,531 3494,738 3127,1004 2760,1271 2438,1593 2171,1960 1905,2327 1698,2733 1558,3164 1418,3595 1347,4046 1347,4499 1347,4951 1418,5402 1558,5833 1698,6264 1905,6670 2171,7037 2438,7404 2760,7726 3127,7993 3494,8259 3900,8466 4331,8606 4762,8746 5213,8818 5666,8818 6119,8818 6570,8746 7001,8606 7432,8466 7838,8259 8204,7993 8571,7726 8893,7404 9160,7037 9426,6670 9633,6264 9773,5833 9885,5488 9953,5131 9976,4769 L 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,180 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 9976,4769 C 9982,4679 9985,4588 9985,4499 9985,4046 9913,3595 9773,3164 9633,2733 9426,2327 9160,1960 8893,1593 8571,1271 8204,1004 7838,738 7432,531 7001,391 L 7001,391 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 5666,4499 9976,4769 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 7001,391 C 6949,374 6897,358 6845,344 L 5666,4499 5666,4499 7001,391 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 6845,344 C 6461,235 6065,180 5666,180 L 5666,4499 5666,4499 6845,344 Z"/>
+ <path fill="rgb(94,39,80)" stroke="none" d="M 11554,3729 L 11448,3729 11448,3518 11659,3518 11659,3729 11554,3729 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 11554,4313 L 11448,4313 11448,4102 11659,4102 11659,4313 11554,4313 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 11554,4896 L 11448,4896 11448,4685 11659,4685 11659,4896 11554,4896 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 11554,5480 L 11448,5480 11448,5269 11659,5269 11659,5480 11554,5480 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Droid Sans Fallback, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11759" y="3763"><tspan fill="rgb(0,0,0)" stroke="none">林業用地</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Droid Sans Fallback, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11759" y="4347"><tspan fill="rgb(0,0,0)" stroke="none">農牧用地</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Droid Sans Fallback, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11759" y="4930"><tspan fill="rgb(0,0,0)" stroke="none">建築用地</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Droid Sans Fallback, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11759" y="5514"><tspan fill="rgb(0,0,0)" stroke="none">其它（牧地、工商用地）</tspan></tspan></tspan></text>
+</svg>
